@@ -1,0 +1,1690 @@
+
+group
+{
+position: absolute;
+width: 65px;
+height: 48px;
+left: 375px;
+top: 45px;
+}
+
+.Notitanic
+{
+
+/* Notitanic */
+
+position: absolute;
+width: 200px;
+height: 50px;
+left: 450px;
+top: 25px;
+
+font-family: 'Nico Moji';
+font-style: normal;
+font-weight: 1000px;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+}
+
+frame2
+{
+    /* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 145px;
+
+position: absolute;
+width: 710px;
+height: 21px;
+left: 775px;
+top: 40px;
+
+
+
+/* Home */
+border-bottom: 3px solid orange;
+padding: 3px;
+
+/* Line 1 */
+
+position: absolute;
+width: 46px;
+height: 0px;
+left: 775px;
+top: 61px;
+
+
+
+
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 35px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About me */
+
+width: 85px;
+height: 21px;
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Portfolio */
+
+width: 70px;
+height: 21px;
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact */
+font-family: 'Arodora Pro';
+width: 70px;
+height: 21px;
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+
+.bt1
+{
+
+    /* Contact me */
+
+position: absolute;
+width: 121px;
+height: 20px;
+left: 416px;
+top: 612px;
+
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+    /* Rectangle 2 */
+
+position: absolute;
+width: 200px;
+height: 47px;
+left: 375px;
+top: 598px;
+
+/* orange */
+background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+border-radius: 6px;
+
+}
+.Hello
+{
+/* Hello */
+
+position: absolute;
+width: 205px;
+height: 39px;
+left: 375px;
+top: 268px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 54px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+.Gleb
+{
+    /* I’m Gleb Kostrubov */
+
+position: absolute;
+width: 447px;
+height: 136px;
+left: 375px;
+top: 334px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 82px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+.WD
+{
+    /* I've been doing web design, front-end and back-end development for a year now. Do you need a website design, site layout, or maybe a turnkey website? Then contact me */
+
+position: absolute;
+width: 430px;
+height: 74px;
+left: 375px;
+top: 497px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+elips5
+{
+    /* Ellipse 5 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 976px;
+top: 598px;
+
+/* Gray2 */
+background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+
+}
+
+elips4
+{
+    /* Ellipse 4 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1419px;
+top: 212px;
+
+/* Gray2 */
+background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+
+
+/* UI */
+
+position: absolute;
+width: 37px;
+height: 41px;
+left: 1446px;
+top: 237px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+
+}
+
+elips3
+{
+    /* Ellipse 3 */
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 945px;
+top: 410px;
+
+/* Gray2 */
+background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+
+
+/* </ */
+
+position: absolute;
+width: 42px;
+height: 41px;
+left: 1045px;
+top: 269px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+}
+
+elips2
+{
+    /* Ellipse 2 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1021px;
+top: 244px;
+
+/* Gray2 */
+background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+
+
+/* Ux */
+
+position: absolute;
+width: 52px;
+height: 41px;
+left: 964px;
+top: 435px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+
+}
+
+.ps
+{
+   /* Ps */
+
+position: absolute;
+width: 47px;
+height: 41px;
+left: 998px;
+top: 623px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+ 
+}
+.UI
+{
+    /* UI */
+
+position: absolute;
+width: 37px;
+height: 41px;
+left: 1446px;
+top: 237px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+}
+
+.lt
+{
+    /* </ */
+
+position: absolute;
+width: 42px;
+height: 41px;
+left: 1045px;
+top: 269px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+}
+
+.Ux
+{
+    /* Ux */
+
+position: absolute;
+width: 52px;
+height: 41px;
+left: 964px;
+top: 435px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+}
+
+elips1
+{
+    /* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 575px;
+height: 575px;
+left: 1002px;
+top: 212.47px;
+
+/* blu */
+border: 67px solid #00C4F0;
+filter: drop-shadow(0px 0px 152px rgba(0, 196, 240, 0.42));
+
+}
+
+.img1
+{
+    /* F72BBE6B-F7D4-4BD2-9EAF-F1FFAEF691F2 1 */
+
+position:absolute;
+z-index: 3;
+width: 357px;
+height: 286px;
+left: 1050px;
+top: 120px;
+
+background: url(Image/image1.png);
+transform: rotate(-6.57deg);
+
+}
+
+.img2
+{
+/* F72BBE6B-F7D4-4BD2-9EAF-F1FFAEF691F2 1 */
+position:absolute;
+z-index: 2;
+width: 357px;
+height: 286px;
+left: 1065.82px;
+top: 153.82px;
+
+background: url(image/image2.png);
+
+}
+
+.elips1
+{
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+z-index: 1;
+width: 575px;
+height: 575px;
+left: 835px;
+top: 50px;
+
+
+
+}
+.btps
+{
+    /* Ellipse 5 */
+
+position: absolute;
+z-index:2;
+width: 90px;
+height: 90px;
+left: 976px;
+top: 598px;
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+}
+
+.btux
+{
+    /* Ellipse 3 */
+
+position: absolute;
+z-index: 2;
+width: 90px;
+height: 90px;
+left: 945px;
+top: 410px;
+display: flex;
+align-items: center;
+
+color: #00C4F0;
+
+
+}
+
+.btls
+{
+    /* Ellipse 2 */
+
+position: absolute;
+z-index: 2;
+width: 90px;
+height: 90px;
+left: 1021px;
+top: 244px;
+display: flex;
+align-items: center;
+color: #00C4F0;
+
+}
+.btul
+{
+    /* Ellipse 4 */
+
+position: absolute;
+z-index: 2;
+width: 90px;
+height: 90px;
+left: 1419px;
+top: 212px;
+display: flex;
+align-items: center;
+color: #00C4F0;
+
+
+}
+
+.RectBack
+{
+    /* Rectangle 15 */
+z-index: 2;
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 270px;
+left: 525px;
+top: 1200px;
+
+
+
+}
+
+.RectProd
+{
+    /* Rectangle 10 */
+    z-index: 2;
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 270px;
+left: 365px;
+top: 900px;
+
+}
+
+.RectFront
+{
+/* Rectangle 17 */
+z-index: 2;
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 270px;
+left: 825px;
+top: 1200px;
+
+}
+
+.RectMot
+{
+    /* Rectangle 16 */
+
+box-sizing: border-box;
+z-index: 2;
+position: absolute;
+width: 270px;
+height: 270px;
+left: 1125px;
+top: 1200px;
+
+}
+
+.RectLogo
+{
+    /* Rectangle 12 */
+
+box-sizing: border-box;
+z-index: 2;
+position: absolute;
+width: 270px;
+height: 270px;
+left: 1275px;
+top: 900px;
+
+}
+
+.RectIcon
+{
+    /* Rectangle 14 */
+
+box-sizing: border-box;
+z-index: 2;
+position: absolute;
+width: 270px;
+height: 270px;
+left: 975px;
+top: 900px;
+}
+
+.RectDes
+{
+    /* Rectangle 13 */
+
+box-sizing: border-box;
+z-index: 2;
+position: absolute;
+width: 270px;
+height: 270px;
+left: 675px;
+top: 900px;
+}
+
+.Des
+{
+    /* UX/UI Design */
+    z-index: 3;
+position: absolute;
+width: 141px;
+height: 29px;
+left: 750px;
+top: 1091px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+
+
+}
+
+.Icon
+{
+    /* Icon Design */
+    z-index: 3;
+position: absolute;
+width: 128px;
+height: 29px;
+left: 1060px;
+top: 1091px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+.Logo
+{
+    /* Logo Design */
+    z-index: 3;
+position: absolute;
+width: 139px;
+height: 29px;
+left: 1360px;
+top: 1091px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+.Mot
+{
+    /* Motion */
+    z-index: 3;
+position: absolute;
+width: 77px;
+height: 29px;
+left: 1230px;
+top: 1391px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+.Front
+{
+    /* Frontend */
+    z-index: 3;
+position: absolute;
+width: 104px;
+height: 29px;
+left: 923px;
+top: 1391px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+.Prod
+{
+    /* Product Design */
+    z-index: 3;
+position: absolute;
+width: 170px;
+height: 29px;
+left: 425px;
+top: 1091px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+.Back
+{
+    /* Backend */
+    z-index: 3;
+position: absolute;
+width: 96px;
+height: 29px;
+left: 625px;
+top: 1391px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+
+.im1
+{
+    /* image 2 */
+
+position: absolute;
+z-index: 3;
+width: 350px;
+height: 350px;
+left: 500px;
+top: 1590px;
+
+background: url(image.png);
+transform: rotate(-7.77deg);
+
+}
+
+.im2 
+{
+    /* 1TCPaqAu78Y 1 */
+    
+z-index: 2;
+position: absolute;
+width: 272px;
+height: 320px;
+left: 542px;
+top: 1635px;
+
+
+background: url(1TCPaqAu78Y.jpg);
+box-shadow: 0px 0px 0px 6px #686868;
+
+}
+.im2b
+{
+    /* Rectangle 9 */
+
+position: absolute;
+z-index: 1;
+width: 330px;
+height: 378px;
+left: 513px;
+top: 1606px;
+
+background: #2C2C2C;
+border-radius: 14px;
+
+}
+
+.im3
+{
+    /* photo_2021-08-30_22-31-34 */
+z-index: 2;
+position: absolute;
+width: 287px;
+height: 427px;
+left: 1286px;
+top: 1841px;
+
+background: url(photo_2021-08-30_22-31-34.jpg);
+box-shadow: 0px 0px 0px 6px #686868;
+
+}
+.im3b
+{
+    /* Rectangle 8 */
+
+position: absolute;
+z-index: 1;
+width: 307px;
+height: 339px;
+left: 535px;
+top: 2181px;
+
+background: #2C2C2C;
+border-radius: 14px;
+
+}
+.im4
+{
+    /* image 3 */
+z-index: 2;
+position: absolute;
+z-index: 3;
+width: 93.19px;
+height: 93.19px;
+left: 628px;
+top: 2290.38px;
+
+background: url(image.png);
+transform: rotate(-3.31deg);
+
+}
+.im4b
+{
+    /* Rectangle 7 */
+
+position: absolute;
+z-index: 1;
+width: 310px;
+height: 485px;
+left: 1292px;
+top: 1812px;
+
+background: #2C2C2C;
+border-radius: 14px;
+
+}
+
+.im5
+{
+    /* photo_2021-08-30_22-31-41 */
+z-index: 2;
+position: absolute;
+width: 250px;
+height: 281px;
+left: 564px;
+top: 2210px;
+
+background: url(photo_2021-08-30_22-31-41.jpg);
+box-shadow: 0px 0px 0px 6px #686868;
+
+}
+
+.El6
+{
+    /* Ellipse 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+z-index: 1;
+width: 700x;
+height: 700px;
+left: 200px;
+top: 1600px;
+
+
+
+}
+
+.El7
+{
+    /* Ellipse 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+z-index: 1;
+width: 356px;
+height: 356px;
+left: 1140px;
+top: 1624px;
+
+
+}
+
+.El8
+{
+    /* Ellipse 7 */
+
+box-sizing: border-box;
+z-index: 1;
+position: absolute;
+width: 486px;
+height: 486px;
+left: 980px;
+top: 2000px;
+
+
+}
+
+.AbMe
+{
+    /* About me */
+
+position: absolute;
+z-index: 3;
+width: 246px;
+height: 54px;
+left: 865px;
+top: 1700px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+}
+
+.AB
+{
+
+position: absolute;
+z-index: 3;
+width: 370px;
+height: 750px;
+left: 865px;
+top: 1700px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+}
+
+.TextB
+{
+    /* Rectangle 6 */
+
+position: absolute;
+z-index: 1;
+width: 496px;
+height: 822px;
+left: 802px;
+top: 1653px;
+
+background: #2C2C2C;
+border-radius: 14px;
+
+}
+
+bd
+{
+    /* bg2 */
+z-index: 0;
+position: absolute;
+width: 1920px;
+height: 1847px;
+left: 0px;
+top: 787px;
+
+/* Gray2 */
+background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+
+}
+
+.Port
+{
+    /* Portfolio */
+
+position: absolute;
+width: 268px;
+height: 54px;
+left: 826px;
+top: 2734px;
+
+font-family: 'NEXT ART';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+
+.LC 
+{
+
+position: absolute;
+z-index: 3;
+width: 36px;
+height: 36px;
+left: 387px;
+top: 3120px;
+
+
+}
+
+.RC 
+{
+    /* akar-icons:arrow-left */
+
+position: absolute;
+z-index: 3;
+width: 36px;
+height: 36px;
+left: 1533px;
+top: 3120px;
+
+
+}
+
+.El9
+{
+    /* Ellipse 9 */
+    z-index: 2;
+position: absolute;
+width: 60px;
+height: 60px;
+left: 375px;
+top: 3108px;
+
+
+}
+
+.El10
+{
+    /* Ellipse 10 */
+    z-index: 2;
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1522px;
+top: 3108px;
+
+}
+
+.Bas
+{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel. */
+    z-index: 2;
+
+position: absolute;
+width: 296px;
+height: 336px;
+left: 1099px;
+top: 2974px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.Par
+{
+    /* Landing Ice-cream */
+    z-index: 2;
+
+position: absolute;
+width: 213px;
+height: 29px;
+left: 1150px;
+top: 2920px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+
+.More
+{
+    /* More */
+    z-index: 2;
+
+position: absolute;
+width: 43px;
+height: 21px;
+left: 1216px;
+top: 3335px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #E2A100;
+
+
+}
+
+.RLine
+{
+    /* Vector 2 */
+    z-index: 2;
+
+position: absolute;
+width: 13px;
+height: 8px;
+left: 1266px;
+top: 3337px;
+
+
+}
+
+.Last
+{
+    /* image 4 */
+    z-index: 2;
+
+position: absolute;
+width: 843px;
+height: 509px;
+left: 445px;
+top: 2888px;
+
+background: url(image.png);
+/* Rectangle 18 */
+
+position: absolute;
+width: 493px;
+height: 500px;
+left: 525px;
+top: 2888px;
+
+background: #C4C4C4;
+border-radius: 29px;
+
+
+}
+
+.Rect10
+{
+    /* Rectangle 11 */
+
+box-sizing: border-box;
+z-index: 1;
+position: absolute;
+width: 970px;
+height: 600px;
+left: 475px;
+top: 2838px;
+
+
+}
+
+fr1
+{
+    /* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 85px;
+height: 138px;
+left: 500px;
+top: 3638px;
+
+
+
+/* Home */
+
+width: 50px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About me */
+
+width: 85px;
+height: 21px;
+
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Portfolio */
+
+width: 70px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 70px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+.am 
+{
+    /* About me */
+
+width: 85px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+fr2
+{
+    /* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 244px;
+height: 138px;
+left: 772px;
+top: 3638px;
+
+
+
+/* Contact: */
+
+width: 72px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Email: notitanic33@gmail.com */
+
+width: 244px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Inst: notitanic33 */
+
+width: 131px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Calls: +7 (900) - 121 - 54 -54 */
+
+width: 223px;
+height: 21px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+
+
+/* text */
+color: #E4E4E4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+
+.Cr 
+{
+    /* Copyright © 2021, Notitanic */
+
+position: absolute;
+width: 226px;
+height: 21px;
+left: 1250px;
+top: 3755px;
+
+font-family: 'Arodora Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* text */
+color: #E4E4E4;
+
+
+}
+.N 
+{
+    /* Notitanic */
+
+position: absolute;
+width: 106px;
+height: 18px;
+left: 1300px;
+top: 3659px;
+
+font-family: 'Nico Moji';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+
+.svg 
+{
+    /* icon-park-outline:paper-ship */
+
+position: absolute;
+width: 65px;
+height: 48px;
+left: 1225px;
+top: 3644px;
+
+
+
+}
+
+.cicle
+{
+/* Ellipse 11 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1420px;
+top: 3638px;
+
+}
+
+.TLINE
+{
+    /* akar-icons:arrow-left */
+
+position: absolute;
+z-index: 3;
+width: 36px;
+height: 36px;
+left: 1437px;
+top: 3655px;
+
+}
+
+fr5
+{
+    /* bg2 */
+
+position: absolute;
+width: 1920px;
+height: 238px;
+left: 0px;
+top: 3588px;
+
+}
+
